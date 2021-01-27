@@ -6,7 +6,7 @@ base_packages = [
     "pyyaml>=5.3.1",
     # "pandas>=1.0.3",
     "altair>=4.1.0",
-    "typer>=0.3.0",
+    "typer==0.3.0",
     # "rasa>=2.0",
     # "spacy>=2.3.2",
     # "tensorflow>=2.3.1",
